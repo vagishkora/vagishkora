@@ -1,4 +1,4 @@
-# 😊 Vagish N Kora
+# ☺️Vagish N Kora
 
 **`Aspiring Cybersecurity Engineer | AI & ML Enthusiast`**
 
