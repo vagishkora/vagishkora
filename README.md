@@ -2,7 +2,7 @@
 
 **`Aspiring Cybersecurity Engineer | AI & ML Enthusiast`**
 
-I'm a 2nd year B.Tech Cybersecurity student passionate about building secure, intelligent systems. I thrive at the intersection of **cybersecurity and AI**, creating projects that solve real-world problems — from training deep learning models to detect network threats to building full-stack web applications.
+I'm a 3rd year B.Tech Cybersecurity student passionate about building secure, intelligent systems. I thrive at the intersection of **cybersecurity and AI**, creating projects that solve real-world problems — from training deep learning models to detect network threats to building full-stack web applications.
 
 Currently exploring **CTFs, Bug Bounty, and Penetration Testing** to sharpen my ethical hacking skills. I believe in clean code, thoughtful design, and continuous learning across the vast landscape of technology.
 
