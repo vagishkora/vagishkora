@@ -1,70 +1,94 @@
-# ☺️Vagish N Kora
-
-**`Aspiring Cybersecurity Engineer | AI & ML Enthusiast`**
-
-I'm a 3rd year B.Tech Cybersecurity student passionate about building secure, intelligent systems. I thrive at the intersection of **cybersecurity and AI**, creating projects that solve real-world problems — from training deep learning models to detect network threats to building full-stack web applications.
-
-Currently exploring **CTFs, Bug Bounty, and Penetration Testing** to sharpen my ethical hacking skills. I believe in clean code, thoughtful design, and continuous learning across the vast landscape of technology.
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vagish-n-kora-459149212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/vagishkora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://x.com/vagishkora2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vagish__k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <img src="header.svg" alt="vagish@interceptor — Terminal Profile" width="100%"/>
 </p>
 
+<br/>
+
+<p align="center">
+  <a href="https://vagishkora.github.io/Vagish.dev/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-vagish.dev-0d1117?style=for-the-badge&labelColor=0d1117&color=161b22" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/vagish-n-kora-459149212/">
+    <img src="https://img.shields.io/badge/LinkedIn-vagish--n--kora-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117&color=161b22" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://github.com/vagishkora">
+    <img src="https://img.shields.io/badge/GitHub-vagishkora-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117&color=161b22" alt="GitHub"/>
+  </a>
+</p>
+
+<br/>
+
+<h3 align="center"><code>root@interceptor:~# cat /sys/stats/github.log</code></h3>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vagishkora&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=c084fc&ring_color=00e5ff" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagishkora&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="180"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vagishkora&hide_border=true&background=0d1117&ring=00e5ff&fire=c084fc&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=30363d" alt="GitHub Streak" width="600"/>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vagishkora&bg_color=0d1117&color=58a6ff&line=c084fc&point=00e5ff&area_color=161b22&area=true&hide_border=true&custom_title=vagish@interceptor%20~%20%25%20git%20log%20--graph" alt="Activity Graph" width="100%"/>
+</p>
+
+<br/>
+
+<h3 align="center"><code>root@interceptor:~# ls /etc/arsenal/</code></h3>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,react,nextjs,nodejs,express,html,css,tailwind&theme=dark" alt="Languages & Frameworks"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,docker,linux,git,vscode,figma&theme=dark" alt="Tools & Infrastructure"/>
+</p>
+
+<br/>
+
+<h3 align="center"><code>root@interceptor:~# ls /projects/featured/</code></h3>
+
+<br/>
+
+<div align="center">
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| 🎂 [Birthday Site](https://github.com/vagishkora/Birthday-template) | 60fps canvas particles, 3D holographic tilt-cards, gamified constellation puzzle | `Vanilla JS` `HTML5 Canvas` |
+| 💰 [WealthNest](https://github.com/vagishkora/WealthNest) | AI-powered PWA for tracking stocks, mutual funds & smart expenses | `Next.js` `PWA` |
+| 🔐 [Malware Analysis](https://github.com/vagishkora/malwares-found-recently) | Dynamic & static malware analysis in sandboxed environments | `Security` `RE` |
+| 👁️ [Face Recognition](https://github.com/vagishkora/Face-recognition) | Real-time biometric system using OpenCV & deep learning | `Python` `OpenCV` |
+
+</div>
+
+<br/>
+
+<h3 align="center"><code>root@interceptor:~# cat /etc/certs/verified.log</code></h3>
+
+<br/>
+
+<div align="center">
+
+🏛️ **IISc Bangalore** — Ethical Hacking Workshop &nbsp;&nbsp;|&nbsp;&nbsp; 💳 **Mastercard** — Cybersecurity Job Simulation &nbsp;&nbsp;|&nbsp;&nbsp; ☁️ Cloud & AI Credentials
+
+</div>
+
+<br/>
+
 ---
 
-### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vagishkora&style=for-the-badge&color=161b22&label=PROFILE+SCANS" alt="Profile Views"/>
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h4>Machine Learning & AI</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px" height="50px" alt="TensorFlow"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50px" height="50px" alt="Python"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50px" height="50px" alt="OpenCV"/><br/>
-    </td>
-    <td align="center" width="25%">
-      <h4>Core Languages</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50px" height="50px" alt="Python"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px" alt="Java"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" height="50px" alt="C"/><br/>
-    </td>
-    <td align="center" width="25%">
-      <h4>Web Development</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px" alt="React"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" height="50px" alt="Next.js"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px" alt="Tailwind CSS"/><br/>
-    </td>
-    <td align="center" width="25%">
-      <h4>Backend & Database</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px" alt="PostgreSQL"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px" alt="MongoDB"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="50px" alt="MySQL"/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <h4>Systems & Tools</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" height="50px" alt="Linux" style="margin: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" alt="Git" style="margin: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" height="50px" alt="Windows" style="margin: 10px;"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 What I'm Currently Doing
-
-- 🔐 Diving deeper into **network security** and **penetration testing**
-- 🤖 Building **AI/ML models** for cybersecurity applications
-- 💻 Developing full-stack projects with **modern web technologies**
-- 🐛 Actively participating in **CTFs and bug bounties**
-- 📚 Contributing to **open-source projects**
-
----
-
-### 🎯 Let's Build Something Together!
-
-I'm always open to collaborating on innovative projects, especially at the intersection of security and AI. Feel free to reach out!
+<p align="center">
+  <sub><code>© 2026 Vagish N Kora · Interceptor Systems v2.4 · All systems operational</code></sub>
+</p>
