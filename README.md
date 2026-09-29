@@ -1,71 +1,30 @@
-# ☺️Vagish N Kora
+<div align="center">
 
-**`Aspiring Cybersecurity Engineer | AI & ML Enthusiast`**
+# 👨‍💻 Vagish N Kora
 
-I'm a 3rd year B.Tech Cybersecurity student passionate about building secure, intelligent systems. I thrive at the intersection of **cybersecurity and AI**, creating projects that solve real-world problems — from training deep learning models to detect network threats to building full-stack web applications.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Aspiring+Cybersecurity+Engineer;AI+%26+Machine+Learning+Practitioner;CTF+Player+%26+Security+Researcher;Building+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
+</a>
 
-Currently exploring **CTFs, Bug Bounty, and Penetration Testing** to sharpen my ethical hacking skills. I believe in clean code, thoughtful design, and continuous learning across the vast landscape of technology.
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vagish-n-kora-459149212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/vagishkora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://x.com/vagishkora2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vagish__k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/vagish-n-kora-459149212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/vagishkora2003"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://github.com/vagishkora"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-### 🧰 Languages & Tools
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h4>Machine Learning & AI</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50px" height="50px" alt="TensorFlow"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50px" height="50px" alt="Python"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50px" height="50px" alt="OpenCV"/><br/>
-    </td>
-    <td align="center" width="25%">
-      <h4>Core Languages</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="50px" height="50px" alt="Python"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" height="50px" alt="Java"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" height="50px" alt="C"/><br/>
-    </td>
-    <td align="center" width="25%">
-      <h4>Web Development</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px" alt="React"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" height="50px" alt="Next.js"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50px" height="50px" alt="Tailwind CSS"/><br/>
-    </td>
-    <td align="center" width="25%">
-      <h4>Backend & Database</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" height="50px" alt="PostgreSQL"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" height="50px" alt="MongoDB"/><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" height="50px" alt="MySQL"/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <h4>Systems & Tools</h4>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50px" height="50px" alt="Linux" style="margin: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" height="50px" alt="Git" style="margin: 10px;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50px" height="50px" alt="Windows" style="margin: 10px;"/>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-### 📊 What I'm Currently Doing
+### 🛡️ About Me
 
-- 🔐 Diving deeper into **network security** and **penetration testing**
-- 🤖 Building **AI/ML models** for cybersecurity applications
-- 💻 Developing full-stack projects with **modern web technologies**
-- 🐛 Actively participating in **CTFs and bug bounties**
-- 📚 Contributing to **open-source projects**
-
----
-
-### 🎯 Let's Build Something Together!
-
-I'm always open to collaborating on innovative projects, especially at the intersection of security and AI. Feel free to reach out!
-
+```yaml
+identity: Vagish N Kora
+role: Cybersecurity Undergraduate (3rd Year B.Tech) & AI Researcher
+focus_areas:
+  - Network Penetration Testing & Threat Analysis
+  - Deep Learning for Threat Detection & Cyber Defense
+  - Secure Full-Stack Application Architecture
+interests: [CTFs, Vulnerability Research, Bug Bounty, Reverse Engineering]
+motto: "Clean code, zero trust, intelligent defense."
