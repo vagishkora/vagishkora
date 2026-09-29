@@ -3,7 +3,7 @@
 # 👨‍💻 Vagish N Kora
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Aspiring+Cybersecurity+Engineer;AI+%26+Machine+Learning+Practitioner;CTF+Player+%26+Security+Researcher;Building+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Aspiring+Cybersecurity+Engineer;AI+%26+Machine+Learning+Practitioner;+Security+Researcher;Building+Secure+%26+Intelligent+Systems" alt="Typing SVG" />
 </a>
 
 <p align="center">
