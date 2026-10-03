@@ -1,0 +1,328 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610" role="img" aria-label="Vagish N Kora - Cybersecurity Engineer &amp; AI Specialist Profile Hero">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad_dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B1528" />
+      <stop offset="60%" stop-color="#030712" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+
+    <!-- Scanline Gradient -->
+    <linearGradient id="scanGrad_dark" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="25%" stop-color="#38BDF8" stop-opacity="0.85" />
+      <stop offset="75%" stop-color="#10B981" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Subdued Grid Pattern -->
+    <pattern id="grid_dark" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1E293B" stroke-width="0.5" stroke-opacity="0.5" />
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .ascii-text { font-family: ui-monospace, SFMono-Regular, monospace; font-size: 7px; letter-spacing: 1.2px; fill: #22D3EE; }
+  </style>
+
+  <!-- Canvas Outer Background -->
+  <rect width="1180" height="610" rx="20" fill="url(#bgGrad_dark)" />
+  <rect width="1180" height="610" rx="20" fill="url(#grid_dark)" />
+  <rect width="1180" height="610" rx="20" fill="none" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Top Terminal Chrome / Window Bar -->
+  <rect x="0" y="0" width="1180" height="42" rx="20" fill="#0F172A" fill-opacity="0.5" />
+  <path d="M 0 42 L 1180 42" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Window Controls -->
+  <circle cx="28" cy="21" r="5.5" fill="#EF4444" />
+  <circle cx="46" cy="21" r="5.5" fill="#F59E0B" />
+  <circle cx="64" cy="21" r="5.5" fill="#10B981" />
+
+  <!-- Host & Terminal Header -->
+  <text x="88" y="26" class="mono" font-size="12" fill="#94A3B8" font-weight="600">vagish@cybersec-core:~ [ KERNEL: SECURE // REPO: vagishkora ]</text>
+  
+  <!-- Right Status Badge (Online Indicator) -->
+  <rect x="1034" y="11" width="118" height="20" rx="10" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+  <circle cx="1048" cy="21" r="3.5" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="1058" y="25" class="mono" font-size="10.5" fill="#10B981" font-weight="700">STATUS: 200 OK</text>
+
+  <!-- ======================================================== -->
+  <!-- LEFT COLUMN: VISUAL.MAP / IDENTITY (Width: 428, Height: 536) -->
+  <!-- ======================================================== -->
+  <g transform="translate(24, 52)">
+    <!-- Panel Glass Container -->
+    <rect width="428" height="534" rx="16" fill="#0B132B" fill-opacity="0.70" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Panel Header Strip -->
+    <text x="20" y="28" class="mono" font-size="11" fill="#22D3EE" font-weight="700" letter-spacing="1">// VISUAL.MAP: BIOMETRIC_MATRIX</text>
+    <rect x="326" y="16" width="82" height="18" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+    <text x="334" y="29" class="mono" font-size="9.5" fill="#94A3B8" font-weight="600">ID: SEC-01</text>
+
+    <!-- Inner Biometric Portrait Box (Width: 388, Height: 300) -->
+    <rect x="20" y="44" width="388" height="300" rx="10" fill="#030712" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Corner Brackets (Target Reticles) -->
+    <path d="M 28 54 L 28 48 L 34 48" stroke="#22D3EE" stroke-width="1.5" fill="none" />
+    <path d="M 400 54 L 400 48 L 394 48" stroke="#22D3EE" stroke-width="1.5" fill="none" />
+    <path d="M 28 334 L 28 340 L 34 340" stroke="#22D3EE" stroke-width="1.5" fill="none" />
+    <path d="M 400 334 L 400 340 L 394 340" stroke="#22D3EE" stroke-width="1.5" fill="none" />
+
+    <!-- ASCII Portrait Render -->
+    <text class="ascii-text" text-anchor="middle">
+      <animate attributeName="opacity" values="0.88;1;0.88" dur="3s" repeatCount="indefinite" />
+      <tspan x="214" y="68.0">                   ..·::+=***=+::..             </tspan>
+<tspan x="214" y="76.5">                .·+*#%@@@@@@@@@@%#*+·.          </tspan>
+<tspan x="214" y="85.0">              :*#%@@@@@@@@@@@@@@@@@@%#*:        </tspan>
+<tspan x="214" y="93.5">            .+%@@@@@@@@@@@@@@@@@@@@@@@@%+.      </tspan>
+<tspan x="214" y="102.0">           :*@@@@@@@@@@@@@@@@@@@@@@@@@@@@*:     </tspan>
+<tspan x="214" y="110.5">          +#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#+    </tspan>
+<tspan x="214" y="119.0">         *#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#*   </tspan>
+<tspan x="214" y="127.5">        :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:  </tspan>
+<tspan x="214" y="136.0">        +@@@@@@@@@@%#*+==---==+*#%@@@@@@@@@@@+  </tspan>
+<tspan x="214" y="144.5">        #@@@@@@@%*=:             :=*%@@@@@@@#  </tspan>
+<tspan x="214" y="153.0">        %@@@@@@+:  .·:::     :::·.  :+@@@@@@%  </tspan>
+<tspan x="214" y="161.5">        %@@@@@=   :+#%@@:   :@@%#+:   =@@@@@%  </tspan>
+<tspan x="214" y="170.0">        #@@@@*   +##===#+===+#===##+   *@@@@#  </tspan>
+<tspan x="214" y="178.5">        +@@@@:  |· :@: ·|===|· :@: ·|  :@@@@+  </tspan>
+<tspan x="214" y="187.0">        :@@@@:  |· --- ·|===|· --- ·|  :@@@@:  </tspan>
+<tspan x="214" y="195.5">         +@@@+   +====:+     +:====+   +@@@+   </tspan>
+<tspan x="214" y="204.0">         :#@@#:     .·-·.   .·-·.     :#@@#:   </tspan>
+<tspan x="214" y="212.5">          *#@@#·      .:+===+:·      ·#@@#*    </tspan>
+<tspan x="214" y="221.0">          .+#@@%+    :*#%@@@@%#*:    +%@@#+.   </tspan>
+<tspan x="214" y="229.5">           :*@@@@:   +%@@@@@@@@%+   :@@@@*:    </tspan>
+<tspan x="214" y="238.0">            .+%@@%+   .-+****+-·   +%@@%+.     </tspan>
+<tspan x="214" y="246.5">             :*#@@@#+.         .+#@@@#*:       </tspan>
+<tspan x="214" y="255.0">              .·+*#%@@%#*****#%@@%#*+·.        </tspan>
+<tspan x="214" y="263.5">                  .:+*#%@@@@%#*+:.             </tspan>
+<tspan x="214" y="272.0">               .·+*#@@@@@@@@@@@@#*+·.          </tspan>
+<tspan x="214" y="280.5">            .:*#%@@@@@@@@@@@@@@@@@@%#*:.       </tspan>
+<tspan x="214" y="289.0">          .:*#@@@@@@@@@#+===+#@@@@@@@@@#*:.    </tspan>
+<tspan x="214" y="297.5">        .:*#@@@@@@@@@@@:     :@@@@@@@@@@@#*:.  </tspan>
+<tspan x="214" y="306.0">       :*%@@@@@@@@@@@@@#+---+#@@@@@@@@@@@@@%*: </tspan>
+<tspan x="214" y="314.5">     .+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+.</tspan>
+<tspan x="214" y="323.0">   .+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%+</tspan>
+<tspan x="214" y="331.5">  :#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
+    </text>
+
+    <!-- Animated Laser Scanline -->
+    <line x1="22" y1="46" x2="406" y2="46" stroke="url(#scanGrad_dark)" stroke-width="1.8">
+      <animate attributeName="y1" values="46;342;46" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="y2" values="46;342;46" dur="4s" repeatCount="indefinite" />
+    </line>
+
+    <!-- Bottom Left Terminal Prompt & Identity -->
+    <rect x="20" y="356" width="388" height="38" rx="8" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+    <text x="32" y="380" class="mono" font-size="11.5" fill="#10B981" font-weight="700">~/vagish $</text>
+    <text x="108" y="380" class="mono" font-size="11.5" fill="#F8FAFC">sec --shield:enforced</text>
+    <circle cx="390" cy="375" r="3.5" fill="#22D3EE">
+      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Tagline Card -->
+    <rect x="20" y="404" width="388" height="58" rx="8" fill="#030712" stroke="#1E293B" stroke-width="1" />
+    <text x="32" y="426" class="sans" font-size="12" fill="#F8FAFC" font-weight="600">"Clean code, zero trust architecture,"</text>
+    <text x="32" y="446" class="sans" font-size="12" fill="#22D3EE" font-weight="600">"and proactive, intelligent cyber defense."</text>
+
+    <!-- Quick Status Pills -->
+    <g transform="translate(20, 474)">
+      <rect x="0" y="0" width="122" height="26" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+      <circle cx="12" cy="13" r="2.5" fill="#22D3EE" />
+      <text x="22" y="17" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">SEC: HARDENED</text>
+
+      <rect x="132" y="0" width="118" height="26" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+      <circle cx="144" cy="13" r="2.5" fill="#10B981" />
+      <text x="154" y="17" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">AI: INTEGRATED</text>
+
+      <rect x="260" y="0" width="128" height="26" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+      <circle cx="272" cy="13" r="2.5" fill="#818CF8" />
+      <text x="282" y="17" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">CTF: COMPETITOR</text>
+    </g>
+  </g>
+
+  <!-- ======================================================== -->
+  <!-- RIGHT COLUMN: SYSTEM.INFO (Width: 680, Height: 536) -->
+  <!-- ======================================================== -->
+  <g transform="translate(476, 52)">
+    <!-- Panel Glass Container -->
+    <rect width="680" height="534" rx="16" fill="#0B132B" fill-opacity="0.70" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Panel Header Strip -->
+    <text x="28" y="28" class="mono" font-size="11" fill="#10B981" font-weight="700" letter-spacing="1">// SYSTEM.INFO: TELEMETRY_STREAM.sh</text>
+    <rect x="548" y="16" width="104" height="18" rx="4" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+    <text x="558" y="29" class="mono" font-size="9.5" fill="#10B981" font-weight="600">EXEC: PASSED</text>
+
+    <!-- Developer Name Header -->
+    <text x="28" y="66" class="sans" font-size="27" fill="#F8FAFC" font-weight="800" letter-spacing="-0.5">VAGISH N KORA</text>
+    <rect x="256" y="47" width="112" height="22" rx="11" fill="#051329" stroke="#38BDF8" stroke-width="1" />
+    <text x="266" y="62" class="mono" font-size="10" fill="#22D3EE" font-weight="700">YEAR 3 // B.TECH</text>
+
+    <!-- Animated Rotating Roles using SMIL with Integrated Blinking Cursor -->
+    <g transform="translate(28, 92)">
+      <g>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.22;0.25;1" dur="12s" repeatCount="indefinite" />
+        <text x="0" y="0" class="mono" font-size="14" fill="#22D3EE" font-weight="700">&gt; Aspiring Cybersecurity Engineer<tspan fill="#F8FAFC"> _</tspan></text>
+      </g>
+      <g>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.28;0.47;0.50;1" dur="12s" repeatCount="indefinite" />
+        <text x="0" y="0" class="mono" font-size="14" fill="#10B981" font-weight="700">&gt; AI &amp; Machine Learning Threat Researcher<tspan fill="#F8FAFC"> _</tspan></text>
+      </g>
+      <g>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.50;0.53;0.72;0.75;1" dur="12s" repeatCount="indefinite" />
+        <text x="0" y="0" class="mono" font-size="14" fill="#818CF8" font-weight="700">&gt; Penetration Tester &amp; CTF Competitor<tspan fill="#F8FAFC"> _</tspan></text>
+      </g>
+      <g>
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.78;0.97;1" dur="12s" repeatCount="indefinite" />
+        <text x="0" y="0" class="mono" font-size="14" fill="#22D3EE" font-weight="700">&gt; Secure Full-Stack Application Architect<tspan fill="#F8FAFC"> _</tspan></text>
+      </g>
+    </g>
+
+    <!-- Divider Line -->
+    <path d="M 28 108 L 652 108" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Telemetry Field Rows (Balanced Two-Column Alignment) -->
+    <g transform="translate(28, 134)" class="mono" font-size="11.5">
+      <text x="0" y="0" fill="#22D3EE" font-weight="700">&gt; IDENTITY  :</text>
+      <text x="126" y="0" fill="#F8FAFC" font-weight="500">B.Tech in Cybersecurity (3rd Year Undergraduate)</text>
+
+      <text x="0" y="24" fill="#22D3EE" font-weight="700">&gt; CORE FOCUS :</text>
+      <text x="126" y="24" fill="#F8FAFC" font-weight="500">AI-Assisted Threat Detection &amp; Network Defense</text>
+
+      <text x="0" y="48" fill="#22D3EE" font-weight="700">&gt; OFFENSIVE  :</text>
+      <text x="126" y="48" fill="#F8FAFC" font-weight="500">Penetration Testing · CTFs · Bug Bounty Hunting</text>
+
+      <text x="0" y="72" fill="#22D3EE" font-weight="700">&gt; DEFENSE AI :</text>
+      <text x="126" y="72" fill="#F8FAFC" font-weight="500">Neural Anomaly Detection · Computer Vision (OpenCV)</text>
+
+      <text x="0" y="96" fill="#22D3EE" font-weight="700">&gt; FULL-STACK :</text>
+      <text x="126" y="96" fill="#F8FAFC" font-weight="500">Next.js · React · REST APIs · Tailwind CSS · DBs</text>
+    </g>
+
+    <!-- Verified Tech Arsenal Section -->
+    <g transform="translate(28, 252)">
+      <text x="0" y="0" class="mono" font-size="11" fill="#10B981" font-weight="700" letter-spacing="1">// VERIFIED_TOOLBELT: ARSENAL_MATRIX</text>
+
+      <!-- Row 1: Security & Systems -->
+      <text x="0" y="26" class="mono" font-size="10.5" fill="#94A3B8" font-weight="600">SEC &amp; SYS :</text>
+      <g transform="translate(86, 12)">
+        <rect x="0" y="0" width="80" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="9" cy="11" r="2.5" fill="#22D3EE" />
+        <text x="18" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Kali Linux</text>
+
+        <rect x="88" y="0" width="76" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="97" cy="11" r="2.5" fill="#22D3EE" />
+        <text x="106" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Wireshark</text>
+
+        <rect x="172" y="0" width="82" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="181" cy="11" r="2.5" fill="#22D3EE" />
+        <text x="190" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Burp Suite</text>
+
+        <rect x="262" y="0" width="82" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="271" cy="11" r="2.5" fill="#22D3EE" />
+        <text x="280" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Metasploit</text>
+
+        <rect x="352" y="0" width="54" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="361" cy="11" r="2.5" fill="#22D3EE" />
+        <text x="370" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Nmap</text>
+
+        <rect x="414" y="0" width="52" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="423" cy="11" r="2.5" fill="#22D3EE" />
+        <text x="432" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Linux</text>
+
+        <rect x="474" y="0" width="44" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="483" cy="11" r="2.5" fill="#22D3EE" />
+        <text x="492" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Git</text>
+      </g>
+
+      <!-- Row 2: AI & Core Languages -->
+      <text x="0" y="58" class="mono" font-size="10.5" fill="#94A3B8" font-weight="600">AI &amp; CORE :</text>
+      <g transform="translate(86, 44)">
+        <rect x="0" y="0" width="62" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="9" cy="11" r="2.5" fill="#10B981" />
+        <text x="18" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Python</text>
+
+        <rect x="70" y="0" width="86" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="79" cy="11" r="2.5" fill="#10B981" />
+        <text x="88" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">TensorFlow</text>
+
+        <rect x="164" y="0" width="64" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="173" cy="11" r="2.5" fill="#10B981" />
+        <text x="182" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">OpenCV</text>
+
+        <rect x="236" y="0" width="92" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="245" cy="11" r="2.5" fill="#10B981" />
+        <text x="254" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Scikit-Learn</text>
+
+        <rect x="336" y="0" width="48" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="345" cy="11" r="2.5" fill="#10B981" />
+        <text x="354" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Java</text>
+
+        <rect x="392" y="0" width="36" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="401" cy="11" r="2.5" fill="#10B981" />
+        <text x="410" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">C</text>
+      </g>
+
+      <!-- Row 3: Full-Stack & DB -->
+      <text x="0" y="90" class="mono" font-size="10.5" fill="#94A3B8" font-weight="600">WEB &amp; DB  :</text>
+      <g transform="translate(86, 76)">
+        <rect x="0" y="0" width="56" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="9" cy="11" r="2.5" fill="#818CF8" />
+        <text x="18" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">React</text>
+
+        <rect x="64" y="0" width="64" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="73" cy="11" r="2.5" fill="#818CF8" />
+        <text x="82" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Next.js</text>
+
+        <rect x="136" y="0" width="68" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="145" cy="11" r="2.5" fill="#818CF8" />
+        <text x="154" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">Tailwind</text>
+
+        <rect x="212" y="0" width="86" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="221" cy="11" r="2.5" fill="#818CF8" />
+        <text x="230" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">PostgreSQL</text>
+
+        <rect x="306" y="0" width="74" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="315" cy="11" r="2.5" fill="#818CF8" />
+        <text x="324" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">MongoDB</text>
+
+        <rect x="388" y="0" width="58" height="22" rx="5" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <circle cx="397" cy="11" r="2.5" fill="#818CF8" />
+        <text x="406" y="15" class="mono" font-size="10" fill="#F8FAFC" font-weight="600">MySQL</text>
+      </g>
+    </g>
+
+    <!-- Bottom Connect Terminal Strip -->
+    <path d="M 28 376 L 652 376" stroke="#1E293B" stroke-width="1" />
+
+    <g transform="translate(28, 396)">
+      <text x="0" y="0" class="mono" font-size="11.5" fill="#10B981" font-weight="700">vagish@terminal:~$ ./connect.sh --all</text>
+      <text x="280" y="0" class="mono" font-size="11" fill="#94A3B8">// VERIFIED_ENDPOINTS</text>
+
+      <!-- Social Links Row -->
+      <g transform="translate(0, 16)">
+        <rect x="0" y="0" width="142" height="28" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <text x="12" y="18" class="mono" font-size="10.5" fill="#22D3EE" font-weight="600">GitHub:</text>
+        <text x="62" y="18" class="mono" font-size="10.5" fill="#F8FAFC" font-weight="600">@vagishkora</text>
+
+        <rect x="150" y="0" width="162" height="28" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <text x="162" y="18" class="mono" font-size="10.5" fill="#22D3EE" font-weight="600">LinkedIn:</text>
+        <text x="226" y="18" class="mono" font-size="10.5" fill="#F8FAFC" font-weight="600">in/vagish-n-kora</text>
+
+        <rect x="320" y="0" width="144" height="28" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <text x="332" y="18" class="mono" font-size="10.5" fill="#22D3EE" font-weight="600">X / Twt:</text>
+        <text x="384" y="18" class="mono" font-size="10.5" fill="#F8FAFC" font-weight="600">@vagishkora2003</text>
+
+        <rect x="472" y="0" width="130" height="28" rx="6" fill="#0F172A" stroke="#1E293B" stroke-width="1" />
+        <text x="484" y="18" class="mono" font-size="10.5" fill="#22D3EE" font-weight="600">IG:</text>
+        <text x="508" y="18" class="mono" font-size="10.5" fill="#F8FAFC" font-weight="600">@vagish__k</text>
+      </g>
+
+      <!-- Bottom Status Note -->
+      <text x="0" y="68" class="mono" font-size="10" fill="#94A3B8">&gt; STATUS: OPEN_TO_COLLABORATION // CTF_TEAMS // SECURITY_RESEARCH</text>
+    </g>
+  </g>
+</svg>
